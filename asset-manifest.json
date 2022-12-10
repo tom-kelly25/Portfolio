@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.ef57a059.css",
+    "main.js": "/Portfolio/static/js/main.3c1505b3.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Markdown-Previewer.JPG": "/Portfolio/static/media/Markdown-Previewer.86ff6b0c049e8f044abd.JPG",
+    "static/media/Random-Quote-Machine.JPG": "/Portfolio/static/media/Random-Quote-Machine.516e307decfc86f6e50d.JPG",
+    "static/media/25plus5-Clock.JPG": "/Portfolio/static/media/25plus5-Clock.a8ffc36cb00e00f07373.JPG",
+    "static/media/Drum-Machine.JPG": "/Portfolio/static/media/Drum-Machine.84582034df955d2d4c52.JPG",
+    "static/media/JavaScript-Calculator.JPG": "/Portfolio/static/media/JavaScript-Calculator.a8dca021a1a1f2847a99.JPG",
+    "static/media/logo.svg": "/Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.ef57a059.css.map": "/Portfolio/static/css/main.ef57a059.css.map",
+    "main.3c1505b3.js.map": "/Portfolio/static/js/main.3c1505b3.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef57a059.css",
+    "static/js/main.3c1505b3.js"
+  ]
+}
