@@ -1,4 +1,10 @@
 import logo from "./logo.svg";
+import pic1 from "./25plus5-Clock.JPG";
+import pic2 from "./Drum-Machine.JPG";
+import pic3 from "./JavaScript-Calculator.JPG";
+import pic4 from "./Markdown-Previewer.JPG";
+import pic5 from "./Random-Quote-Machine.JPG";
+
 import "./App.css";
 
 function App() {
@@ -32,7 +38,7 @@ function App() {
             target="_blank"
             class="project project-tile"
           >
-            <img class="project-image" src="" alt="project" />
+            <img class="project-image" src={pic5} alt="project" />
             <p class="project-title">
               <span class="code">&lt;</span>
               Random Quote Machine
@@ -44,7 +50,7 @@ function App() {
             target="_blank"
             class="project project-tile"
           >
-            <img class="project-image" src="" alt="project" />
+            <img class="project-image" src={pic4} alt="project" />
             <p class="project-title">
               <span class="code">&lt;</span>
               Markdown Previewer
@@ -56,7 +62,7 @@ function App() {
             target="_blank"
             class="project project-tile"
           >
-            <img class="project-image" src="" alt="project" />
+            <img class="project-image" src={pic3} alt="project" />
             <p class="project-title">
               <span class="code">&lt;</span>
               JavaScript Calculator
@@ -68,7 +74,7 @@ function App() {
             target="_blank"
             class="project project-tile"
           >
-            <img class="project-image" src="" alt="project" />
+            <img class="project-image" src={pic2} alt="project" />
             <p class="project-title">
               <span class="code">&lt;</span>
               Drum Machine
@@ -80,7 +86,7 @@ function App() {
             target="_blank"
             class="project project-tile"
           >
-            <img class="project-image" src="" alt="project" />
+            <img class="project-image" src={pic1} alt="project" />
             <p class="project-title">
               <span class="code">&lt;</span>
               25 plus 5 Clock
